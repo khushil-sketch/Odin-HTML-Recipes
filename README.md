@@ -1,6 +1,6 @@
 # odin-recipes
 Building a Recipe Website (culmination of The Odin Project HTML foundations).
-The webpage has a basic landing page which then redirects the user to 1 of 2 recipes that are very delicious. 
+The webpage has a basic landing page which then leads the user to 2 delicious recipes. 
 There is a back button that I included in both recipe pages (via the anchor tags) to let the user go back to the main recipe page.
 
 ![image](https://github.com/khushil-sketch/odin-recipes/assets/52947378/88815b7e-0554-4116-9760-be760fa45d1b)
