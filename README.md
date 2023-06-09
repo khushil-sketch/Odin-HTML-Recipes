@@ -1,5 +1,5 @@
 # odin-recipes
-The user is greeted by the friendly Shiba upon landing on the webpage. After being overwhelmed by the dog's cuteness, the user can then decide to cook 1 of 2 legenrdary recipes.
+The user can then decide to cook 1 of 2 legenrdary recipes.
 Through the use of anchor tags, the user is able to seamlessly navigate across the website. 
 
 Link: https://khushil-sketch.github.io/odin-recipes/
